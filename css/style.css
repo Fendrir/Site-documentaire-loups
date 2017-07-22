@@ -1,9 +1,12 @@
 body {
 
 font-family: 'Gentium Book Basic', serif;
+font-size: 16px;
+background: url(../image/ep_naturalblack.png);
+margin-top: 7em;
 
 }
-
+/*
 .row [class^="col-"] {
     
     
@@ -11,41 +14,33 @@ font-family: 'Gentium Book Basic', serif;
     border: 1px solid #ddd;
     background-color: rgba(86,61,124,.15);
     border: 1px solid rgba(86,61,124,.2);
-}
+}*/
 
 .espace-navbar {
 
 padding-bottom: 70px;
-
 }
 
 .container {
-
-margin-top: 20px;
-
-margin-bottom: 20px;
-
-padding-right: 15px;
-
-padding-left: 15px;
-
-margin-right: auto;
-
-margin-left: auto;
-
+margin: 20px auto 20px auto;
+padding: 0px 15px 0px 15px;
 }
 
 .image-loup-intro {
+<<<<<<< HEAD:style.css
 
 padding: 10px;
 border-radius: 6%;
 
+=======
+padding: 10px;
+>>>>>>> 993925e6d7efd30a8800ffef2e418b1a99f02e7d:css/style.css
 }
 
-.texte-intro {
-
-margin:5px;
+.intro  {
+color :white;
+/*margin:5px;
 padding: 5px;
-text-align:justify;
+text-align:justify;*/
 
 }
