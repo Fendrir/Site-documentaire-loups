@@ -5,14 +5,14 @@ font-size: 16px;
 margin-top: 7em;
 background: url(../image/background/ep_naturalblack.png);
 }
-[class*="col-"],
+/*[class*="col-"],
 footer {
     background-color: lightgreen;
     border: 2px solid black;
     border-radius: 6px;
     line-height: 40px;
     text-align: center;
-}
+}*/
 .font-titre {
 	font-size: 3em;
 	color: white;
