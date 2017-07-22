@@ -28,3 +28,21 @@ margin-right: auto;
 margin-left: auto;
 
 }
+
+.image-loup-intro {
+
+height: 300px;
+width: auto;
+float: left;
+padding: 10px;
+
+
+}
+
+.texte-intro {
+
+margin:5px;
+padding: 5px;
+text-align:justify;
+
+}
