@@ -19,6 +19,17 @@ font-size: 40px;
 
 }
 
+h4 {
+
+	color :white;
+}
+
+/*ul {
+
+color: white;
+
+}*/
+
 .row [class^="col-"] {
     
     
